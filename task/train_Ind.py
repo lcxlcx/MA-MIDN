@@ -171,7 +171,7 @@ class Trainer_Ind(object):
                 accs.update(correct_count, 1)
 
 
-                # visualization_attentionA(bag_data[0], score[0], i, epoch)
+                visualization_attentionA(bag_data[0], score[0], i, epoch)
                 toc = time.time()
                 batch_time.update(toc - tic)
 
