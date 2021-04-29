@@ -23,6 +23,9 @@ Deep learning approaches have demonstrated significant progress in breast cancer
 ![](https://i.loli.net/2021/04/29/JEsTbB9lY4RWwDc.jpg)
 ![](https://i.loli.net/2021/04/29/qdDLY6OVAiek9Qw.jpg)
 ![](https://i.loli.net/2021/04/29/XeopH36FUu2Yg9a.jpg)
-
+![](https://i.loli.net/2021/04/29/VD3Nqfijbc9gkuY.jpg)
+![](https://i.loli.net/2021/04/29/hI5b2ufOHkUma7F.jpg)
+![](https://i.loli.net/2021/04/29/KDUYC4oXf16bxF5.jpg)
+![](https://i.loli.net/2021/04/29/7nYFTXAKvjrimES.jpg)
 
 
